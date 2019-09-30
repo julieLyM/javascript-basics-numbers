@@ -1,1 +1,1 @@
-# javascript-basics-numbers
+# Stackerine javascript exo
