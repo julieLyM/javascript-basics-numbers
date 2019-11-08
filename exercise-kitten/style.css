@@ -1,0 +1,52 @@
+body {
+  background: #69973e;
+  color: #2d3c1c;
+}
+
+.kitten-page {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+    margin: 0 auto;
+    width: 80%;
+}
+
+.header-title {
+  background: #cfd8bf;
+  margin:0;
+}
+
+.header-title h1 {
+  color: #909b7f;
+  padding: 10px;
+  text-align: center;
+}
+
+
+
+.navbar ul{
+  display: flex;
+  justify-content: space-around;
+  background: #8fc03c;
+  padding: 10px;
+}
+
+.navbar li {
+  list-style-type: none;
+}
+
+.body-content {
+  display: flex;
+  justify-content: flex-start;
+  background: #b5cf6c;
+}
+
+.card {
+  border: solid black 1px;
+  margin: 10px;
+}
+
+.navbar-bottom ul{
+background: white;
+color: purple;
+}
